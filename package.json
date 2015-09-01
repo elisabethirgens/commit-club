@@ -1,0 +1,20 @@
+{
+  "name": "commit-club",
+  "version": "0.0.0",
+  "description": "Shh...",
+  "main": "narrator.js",
+  "scripts": {
+    "test": "echo ALL IS FINE!!!",
+    "start": "node narrator.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elisabethirgens/commit-club"
+  },
+  "author": "Elisabeth Irgens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elisabethirgens/commit-club/issues"
+  },
+  "homepage": "https://github.com/elisabethirgens/commit-club"
+}
