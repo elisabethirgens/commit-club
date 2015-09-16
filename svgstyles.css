@@ -1,0 +1,13 @@
+
+/* CSS for the HTML inside a foreignObject inside the main SVG */
+
+pre {
+  font-family: Monaco, monospace;
+  color: #fff;
+  font-size: 24px;
+  line-height: 1.4;
+}
+
+
+/* syntax highlighting plz */
+.c01 {color: yellow;}

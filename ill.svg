@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1600px" height="1600px" viewBox="0 0 1600 1600" enable-background="new 0 0 1600 1600" xml:space="preserve">
+  <defs>
+    <link href="svgstyles.css" type="text/css" rel="stylesheet" xmlns="http://www.w3.org/1999/xhtml"/>
+  </defs>
+<rect fill="#99C6A4" width="1600" height="1600"/>
+
+<g id="terminal">
+  <rect x="226.6" y="188.7" transform="matrix(0.9982 -6.070549e-02 6.070549e-02 0.9982 -48.0661 50.7252)" fill="#202020" width="1168.5" height="1255.4"/>
+	<rect x="187.2" y="147.3" transform="matrix(0.9982 -6.070549e-02 6.070549e-02 0.9982 -8.8135 47.1388)" fill="#C4C4C4" width="1168.5" height="42.6"/>
+	<circle fill="#CC585B" cx="213.6" cy="202.5" r="8.5"/>
+	<circle fill="#F9EE87" cx="240.1" cy="200.9" r="8.5"/>
+	<circle fill="#66AF69" cx="266.7" cy="199.3" r="8.5"/>
+</g>
+
+<g id="code">
+  <rect x="257.6" y="223.8" transform="matrix(0.9982 -6.070629e-02 6.070629e-02 0.9982 -42.5862 51.5011)" fill="none" width="1137.5" height="1005.6"/>
+</g>
+
+<!-- In SVGs text element, you can only emulate line breaks by wrapping each line in a tspan.
+      So that's why: HTML inside a foreignObject inside the main SVG. -->
+<foreignObject x="280" y="180" width="1000" height="1000" transform="matrix(0.9982 -6.070629e-02 6.070629e-02 0.9982 -42.5862 51.5011)">
+  <div xmlns="http://www.w3.org/1999/xhtml" style="">
+    <pre>
+OMG YAY I got the narrator to work.
+That was so much fun.
+
+And now look… an <span class="c01">SVG</span>!
+  With proper preformatted text \o/
+  that can even be indented.
+  
+This because in SVGs text element, you can only <span class="c01">emulate line breaks</span>
+  by wrapping each line in a tspan.
+
+So that's why I want to try this: 
+  HTML inside a foreignObject inside the main SVG.
+
+    </pre>
+  </div>
+</foreignObject>
+<!-- end HTML stuffs -->
+<polygon fill="#23747C" points="1600,1600 0,1600 0,1291.5 68,1019.2 68,1226.2 131,878.1 159.5,1248.6 207.5,981.6 231.5,1221.5 
+	345.5,873.6 323,1401.5 449,984.6 476,1190 531.5,911.1 582.5,1281.5 608,999.6 653,1184 699.5,863.1 728,1287.5 785,948.6 
+	827,1170.5 854,863.1 968,1295 986,851.1 1047.5,1185.5 1070,960.6 1136,1202 1179.5,944.1 1255,1298 1260.5,858.6 1359,1160 
+	1492.9,857.1 1451,1281.5 1567.9,1015.8 1600,1186.9 "/>
+</svg>
